@@ -1,0 +1,21 @@
+Jim's way
+
+Brightness
+Color plane extration
+Patern matching
+
+
+NI Way
+
+color plane extraction
+image mask
+threshold
+basic morphology
+particle analysis
+
+
+combined
+Brightness color plane extraction
+image mask
+threshold ?
+Patern matching
